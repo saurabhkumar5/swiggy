@@ -22,6 +22,9 @@ function Header() {
 
           <li>Contact</li>
           <li>Cart</li>
+          <Link to='/github'>
+          <li>Github</li>
+          </Link>
         </ul>
       </div>
     </div>
